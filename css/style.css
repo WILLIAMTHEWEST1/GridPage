@@ -20,6 +20,12 @@
        background-size:cover
 
    }
+   .nextimage{
+       background-image: url("/img/redgrid.jpg");
+       background-repeat: none;
+       background-position: center;
+       background-size: cover
+   }
    .heroText{
        font-family: Rampart One, sans-serif;
        font-weight: 400;
@@ -27,4 +33,3 @@
        color:rgb(243, 120, 120);
        margin-bottom: 2em;
    }
-   
